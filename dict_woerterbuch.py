@@ -6,8 +6,8 @@ words = {
         "watch":"schauen"
     }
 
-for word in words:
-    print(word, words[word])
+##for word in words:
+##    print(word, words[word])
 
 
 def vokabeltrainer():
@@ -17,4 +17,10 @@ def vokabeltrainer():
 
 
 
-vokabeltrainer()
+
+def main():
+    pass
+
+
+if __name__ == "__main__":
+    main()
